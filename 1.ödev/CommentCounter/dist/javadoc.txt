@@ -1,0 +1,19 @@
+/**
+* Varsayılan kurucu fonksiyon
+    */
+--------------------------------------------
+/**
+*
+* @param motorNo UUID olarak motor id
+* @return motor instance
+	 */
+--------------------------------------------
+Fonksiyon: calistir
+/**
+* calisiyor true yapılıyor
+		 */
+--------------------------------------------
+/**
+*  Motorun durdurulması //
+	 */
+--------------------------------------------
